@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="DELETE">
+        <description/>
+        <name>recordje</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-28 14:21:39</sys_created_on>
+        <sys_id>3d76299c97d611100baffef3a253af2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>recordje</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_screen_type_3d76299c97d611100baffef3a253af2d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-28 14:21:39</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="DELETE" query="documentkey=3d76299c97d611100baffef3a253af2d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>75f47708dbd66414b847ac44d49619ca</instance_id>
+        <instance_name>dev106663</instance_name>
+        <name>sys_ux_screen_type_3d76299c97d611100baffef3a253af2d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>recordje</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-28 14:21:39</sys_created_on><sys_id>3d76299c97d611100baffef3a253af2d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>recordje</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_screen_type_3d76299c97d611100baffef3a253af2d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-28 14:21:39</sys_updated_on></sys_ux_screen_type><sys_translated_text action="delete_multiple" query="documentkey=3d76299c97d611100baffef3a253af2d"/></record_update>]]></payload>
+        <payload_hash>329675361</payload_hash>
+        <record_name>recordje</record_name>
+        <reverted_from/>
+        <source>3043d00c979211100baffef3a253afa6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-28 14:21:39</sys_created_on>
+        <sys_id>3d76299c97d611100baffef3a253af2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183847984eb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-28 14:21:39</sys_updated_on>
+        <type>UX Screen Collection</type>
+        <update_guid>7576299c0ed6111006723c0047ba332f</update_guid>
+        <update_guid_history>7576299c0ed6111006723c0047ba332f:329675361</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-28 14:23:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen_type">sys_ux_screen_type</sys_db_object>
+        <sys_id>c96053f8732040dc98e692f34aa17704</sys_id>
+        <sys_metadata>3d76299c97d611100baffef3a253af2d</sys_metadata>
+        <sys_name>recordje</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_type_3d76299c97d611100baffef3a253af2d</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_type_3d76299c97d611100baffef3a253af2d">3d76299c97d611100baffef3a253af2f</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
